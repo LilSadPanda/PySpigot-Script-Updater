@@ -1,0 +1,1 @@
+# PySpigot-Script-Updater
